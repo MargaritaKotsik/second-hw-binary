@@ -44,4 +44,4 @@ break;
 }
 }
 };
-fight(fighter, improvedFighter, 12, 22, 23);
+fight(fighter, improvedFighter, 25, 13, 45);
